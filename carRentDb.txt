@@ -1,0 +1,13 @@
+Car;BMW;5;200000;2010;300.0;KR11;true
+Car;Audi;A6;150000;2012;400.0;KR22;false
+Car;Toyota;Corolla;70000;2019;350.0;KR33;false
+Car;Mercedes;E;200000;2009;320.0;KR44;false
+Car;Honda;Civic;40000;2016;360.99;KR55;false
+Bus;Solaris;5000;500000;2007;600.0;KR666;false;50;true
+Bus;Solaris;2000;700000;2002;500.0;KR777;false;40;false
+Motorcycle;BMW;500;30000;2010;300.0;KR1111;false;false;Ścigacz
+Motorcycle;Harley Davidson;Night Rod;30000;2014;400.0;KR2222;false;false;Chopper
+Motorcycle;Honda;CB1000R;10000;2016;450.0;KR3333;false;false;Street
+User;admin;21232f297a57a5a743894a0e4a801fc3
+User;mateusz;617f41f48d1d4f9c787aed6b0ebc6f7d
+User;janusz;81fc20f8b42d0d7c0c9c7e719aae7b70
